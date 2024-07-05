@@ -24,8 +24,8 @@ BOT_NUMBER = envv2.BOT_NUMBER
 
 
 module.exports = {
-    SESSION_ID:  process.env.SESSION_ID,    
-    BOT_NUMBER:  BOT_NUMBER,
-    GITHUB_USERNAME: username,
-    GITHUB_AUTH_TOKEN: GITHUB_TOKEN,
+    SESSION_ID:  process.PRABATH-MD~kQ4wUbiB#oMOD4wjV6YtYPF_inEbjldM3wsJ1aFRB_gfqw5YR0HQ,    
+    BOT_NUMBER: 94722608356,
+    GITHUB_USERNAME: Sumedhalakshitha12,
+    GITHUB_AUTH_TOKEN: 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,
 };
